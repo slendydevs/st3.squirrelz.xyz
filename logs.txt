@@ -1,1 +1,4 @@
-wip
+Updates
+
+2.0 [Release]
+- game released
